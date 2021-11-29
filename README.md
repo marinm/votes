@@ -2,6 +2,7 @@
 Requirements:
 
 - PHP 5.3
+- Javascript ES6
 
 
 ## Directory Structure
